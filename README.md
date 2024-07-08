@@ -4,7 +4,7 @@ My name is David Shenkerman, and I am a rising sophmore studying Computer Scienc
 
 - 🔗 [Blog](https://davidshenkerman.github.io)
 - 🔗 [LinkedIn](www.linkedin.com/in/david-shenkerman-519627279)
-- 🔗 [CTF Time](https://ctftime.org/user/your-ctftime-id)
+- 🔗 [CTF Time](https://ctftime.org/user/184326)
 
 ### Most Used Languages
 
